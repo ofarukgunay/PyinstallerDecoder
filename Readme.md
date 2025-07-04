@@ -54,4 +54,4 @@ This project is open-source and free to use for educational or security research
 
 ---
 
-Made with ❤️ by [@ofarukgunay](https://github.com/ofarukgunay)
+Made with by [@ofarukgunay](https://github.com/ofarukgunay)
